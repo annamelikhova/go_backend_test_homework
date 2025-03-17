@@ -1,5 +1,7 @@
 package main
 
+//добавила комментарий
+
 import (
 	"fmt"
 )
